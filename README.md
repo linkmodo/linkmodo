@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @linkmodo
-- 🌱 I’m currently learning Python & Data Science
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python & Data Science and want to share my projects here
 - ⚡ Fun fact: Part time youtuber, have 7 cats.
 
 <!---
