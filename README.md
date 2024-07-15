@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @linkmodo
-- 🌱 I’m currently learning Python & Data Science and want to share my projects here
+- 👋 Hi, I’m Li Fan @linkmodo
+- 🌱 I’m currently learning Python & Data Science and I want to share my projects here.
 - ⚡ Fun fact: Part time youtuber, have 7 cats.
 
 <!---
