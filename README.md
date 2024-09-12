@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @linkmodo
-- 🌱 I’m currently learning Python & Data Science and want to share my projects here
-- ⚡ Fun fact: Part time youtuber, have 7 cats.
+These are executable files I've created to be used for excel file cleanup and extraction of specific columns.
 
 <!---
 linkmodo/linkmodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
