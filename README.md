@@ -1,2 +1,5 @@
-Useful unit converter to convert centimeters to ft and inches.
-Most often used for cycling applications where I need to calculate my height and leg length.
+Useful unit converter and calculators for everyday application
+
+	Convert cm to ft & in for cycling applications
+
+	Calculate weekly pay based on hourly wage and hours worked.
