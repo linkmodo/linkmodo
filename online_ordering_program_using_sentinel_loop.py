@@ -1,7 +1,7 @@
 # Online Purchase Program using Sentinel Looping
 # Additional functions include pagination, dictionary creation, list creation
 # And keyboard navigation of item ordering page
-# Author: Li Fan (with some help from ChatGPT
+# Author: Li Fan (with some help from ChatGPT)
 # Last updated: 9/28/2024
 
 # Variables
