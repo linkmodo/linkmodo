@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Li Fan @linkmodo
-- ⚡Sharing projects I've created that maybe useful to you here.
-- ⚡Fun facts: Part time youtuber
+- ⚡My Python learning journey goes here
 - ✨https://www.linkedin.com/in/lifan
