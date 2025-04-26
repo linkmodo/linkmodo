@@ -1,3 +1,3 @@
 Hi, I’m Li Fan @linkmodo
-My Python projects goes here.
+My AI learning projects goes here.
 https://www.linkedin.com/in/lifan
