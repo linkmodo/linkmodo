@@ -1,3 +1,2 @@
-Hi, I’m Li Fan @linkmodo
-My AI learning projects goes here.
-https://www.linkedin.com/in/lifan
+Hello, I’m Li @linkmodo
+My AI and coding projects goes here.
