@@ -5,7 +5,7 @@
 ### [Video Converter (HEVC/H.265 to Other)](https://react-video-converter.netlify.app/)
 A handy client-side video conversion tool that supports all common video formats including HEVC/H.265
 
-### [PDF2Text Tool (Converts PDF to Text, Flatten PDFs)](https://react-pdf2text.netlify.app/)
+### [PDF2Text Tool (Converts PDF to Text, Flatten PDFs)](https://pdf-to-text.com/)
 A handy tool for converting PDF documents to text with ability to flattening PDFs
 
 ### [OCT Extraction Tool](https://github.com/linkmodo/oct-extractor)
