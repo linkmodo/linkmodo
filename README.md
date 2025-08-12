@@ -10,7 +10,7 @@ Great for loading files to LLM for NLP processing.
 A handy client-side video conversion tool that supports all common video formats including HEVC/H.265
 
 ### [OCT Extraction Tool](https://github.com/linkmodo/oct-extractor)
-GitHub repository for a OCT data extraction applicationw
+GitHub repository for a OCT data extraction application
 
 ### [Deep Learning Based Face Detection and Privacy Filter](https://facedetectionappbyli.streamlit.app/)
 Demo of AI-powered face detection with privacy filtering capabilities
