@@ -2,6 +2,9 @@
 
 ## Some of my projects:
 
+### [GoBananas.io 🍌 (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
+Where AI meets creativity! This tool transforms complex image editing into simple conversations, making professional-quality photo editing accessible to everyone.
+
 ### [PDF2Text Tool (Converts PDF to Text, Flatten PDFs)](https://pdf-to-text.com/)
 A handy tool for converting .PDF (now also .docx) documents to text with ability to flattening PDFs.
 Great for loading files to LLM for NLP processing.
