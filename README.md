@@ -2,6 +2,9 @@
 
 ## Some of my projects:
 
+### [Crazy Bananas 🍌 SLM (Small Language Model utilizing WebGPU)](https://crazybananas-slm.netlify.app/)
+Run powerful AIs locally in your browser. Your choice of models. No local deployment. No data leaves your device.
+
 ### [GoBananas.io 🍌 (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
 Where AI meets creativity! This tool transforms complex image editing into simple conversations, making professional-quality photo editing accessible to everyone.
 
