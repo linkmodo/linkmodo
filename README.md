@@ -18,6 +18,9 @@ A handy client-side video conversion tool that supports all common video formats
 ### [OCT Extraction Tool](https://github.com/linkmodo/oct-extractor)
 GitHub repository for a OCT data extraction application
 
+### [Webcam Face Controller](https://github.com/linkmodo/face_controller)
+A Python application that allows you to control your computer using face movements detected through your webcam. A windows .exe app is also available for download and use directly.
+
 ### [Deep Learning Based Face Detection and Privacy Filter](https://facedetectionappbyli.streamlit.app/)
 Demo of AI-powered face detection with privacy filtering capabilities
 
