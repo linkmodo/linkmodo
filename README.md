@@ -2,6 +2,9 @@
 
 ## Some of my projects:
 
+### [SkyCast 🌞 One Stop Weather App](https://skycastiq.netlify.app/)
+Your one stop weather application featuring a wide variety of current, historical and forecast weather data with map overlay and AQI. Built upon OpenWehaterMap API. Ad-Free.
+
 ### [Crazy Bananas 🍌 SLM (Small Language Model utilizing WebGPU)](https://crazybananas-slm.netlify.app/)
 Run powerful AIs locally in your browser. Your choice of models. No local deployment. No data leaves your device.
 
