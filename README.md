@@ -18,7 +18,7 @@ Great for loading files to LLM for NLP processing.
 ### [Video Converter (HEVC/H.265 to Other)](https://react-video-converter.netlify.app/)
 A handy client-side video conversion tool that supports all common video formats including HEVC/H.265
 
-### [MAIA Conversino Viewer Utility (Ophthalmology)](https://github.com/linkmodo/MAIA_Conversion_Viewer_Utility)
+### [MAIA Conversion & Viewer Utility (Ophthalmology)](https://github.com/linkmodo/MAIA_Conversion_Viewer_Utility)
 A handy utility for viewing MAIA 2 and MAIA 3 analysis with tool for converting MAIA 3 DICOM file to MAIA 2 compatible format.
 
 ### [OCT Extraction Tool](https://github.com/linkmodo/oct-extractor)
