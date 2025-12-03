@@ -11,6 +11,9 @@ Your one stop weather application featuring a wide variety of current, historica
 ### [Crazy Bananas 🍌 SLM (Small Language Model utilizing WebGPU)](https://crazybananas-slm.netlify.app/)
 Run powerful AIs locally in your browser. Your choice of models. No local deployment. No data leaves your device.
 
+### [🏫 Classroom Utilization Analyzer and Schedule Optimizer](https://classroom-utilization.netlify.app/)
+I created this analyzer and schedule optimizer to help resolve a real-case complex classroom scheduling issue and to create recommendations for the college exective team for critical decision making.
+
 ### [Monte Carlo Analysis Platform For Decision Support](https://montecarloplatform.netlify.app/)
 End-to-end Monte Carlo simulation platform that transforms raw data (CSV/Excel) into actionable risk insights. It automates preprocessing, exploratory analysis, and distribution fitting to run 10k+ simulations, delivering interactive visualizations, risk assessments, and decision-ready recommendations with full export capabilities.
 
