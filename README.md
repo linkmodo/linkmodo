@@ -1,20 +1,23 @@
 # Hello, I'm Li @linkmodo
 
-## Some of my projects:
+## Projects:
 
-### [🍌 GoBananas.io (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
+### [GoBananas.io 🍌 (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
 Where AI meets creativity! This tool transforms complex image editing into simple conversations, making professional-quality photo editing accessible to everyone.
 
-### [🌞 SkyCast.app - Your One Stop Weather App](https://skycast.app/)
+### [SkyCast.app 🌞 One Stop Weather App](https://skycast.app/)
 Your one stop weather application featuring a wide variety of current, historical and forecast weather data with map overlay and AQI. Built upon OpenWehaterMap API. Ad-Free.
 
-### [🏫 Classroom Utilization Analyzer and Schedule Optimizer](https://classroom-utilization.netlify.app/)
-I created this analyzer and schedule optimizer to help resolve a real-case complex classroom scheduling issue and to create recommendations for the college exective team for critical decision making.
-
-### [🍌 Crazy Bananas SLM (Small Language Model utilizing WebGPU)](https://crazybananas-slm.netlify.app/)
+### [Crazy Bananas 🍌 SLM (Small Language Model utilizing WebGPU)](https://crazybananas-slm.netlify.app/)
 Run powerful AIs locally in your browser. Your choice of models. No local deployment. No data leaves your device.
 
-### [PDF To Text Converter Tool (Converts PDF to Text, Flatten PDFs)](https://pdf-to-text.com/)
+### [Monte Carlo Analysis Platform For Decision Support](https://montecarloplatform.netlify.app/)
+End-to-end Monte Carlo simulation platform that transforms raw data (CSV/Excel) into actionable risk insights. It automates preprocessing, exploratory analysis, and distribution fitting to run 10k+ simulations, delivering interactive visualizations, risk assessments, and decision-ready recommendations with full export capabilities.
+
+### [AI Powered MBA-CLTV-RFM Analytics Portal](https://ai-mba-cltv-rfm-analysis.netlify.app/)
+A comprehensive customer analytics dashboard featuring AI-powered insights for Customer Lifetime Value (CLTV) prediction, RFM (Recency, Frequency, Monetary) segmentation, Market Basket Analysis, and Exploratory Data Analysis.
+
+### [PDF2Text Tool (Converts PDF to Text, Flatten PDFs)](https://pdf-to-text.com/)
 A handy tool for converting .PDF (now also .docx) documents to text with ability to flattening PDFs.
 Great for loading files to LLM for NLP processing.
 
