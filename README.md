@@ -2,16 +2,19 @@
 
 ## Some of my projects:
 
-### [GoBananas.io 🍌 (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
+### [🍌 GoBananas.io (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
 Where AI meets creativity! This tool transforms complex image editing into simple conversations, making professional-quality photo editing accessible to everyone.
 
-### [SkyCast.app 🌞 One Stop Weather App](https://skycast.app/)
+### [🌞 SkyCast.app - Your One Stop Weather App](https://skycast.app/)
 Your one stop weather application featuring a wide variety of current, historical and forecast weather data with map overlay and AQI. Built upon OpenWehaterMap API. Ad-Free.
 
-### [Crazy Bananas 🍌 SLM (Small Language Model utilizing WebGPU)](https://crazybananas-slm.netlify.app/)
+### [🏫 Classroom Utilization Analyzer and Schedule Optimizer](https://classroom-utilization.netlify.app/)
+I created this analyzer and schedule optimizer to help resolve a real-case complex classroom scheduling issue and to create recommendations for the college exective team for critical decision making.
+
+### [🍌 Crazy Bananas SLM (Small Language Model utilizing WebGPU)](https://crazybananas-slm.netlify.app/)
 Run powerful AIs locally in your browser. Your choice of models. No local deployment. No data leaves your device.
 
-### [PDF2Text Tool (Converts PDF to Text, Flatten PDFs)](https://pdf-to-text.com/)
+### [PDF To Text Converter Tool (Converts PDF to Text, Flatten PDFs)](https://pdf-to-text.com/)
 A handy tool for converting .PDF (now also .docx) documents to text with ability to flattening PDFs.
 Great for loading files to LLM for NLP processing.
 
