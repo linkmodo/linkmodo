@@ -3,7 +3,7 @@
 ## Projects:
 
 ### [GoBananas.io 🍌 (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
-Where AI meets creativity! This tool transforms complex image editing into simple conversations, making professional-quality photo editing accessible to everyone.
+*** Currently disabled due to unaffordable API cost... *** Where AI meets creativity! This tool transforms complex image editing into simple conversations, making professional-quality photo editing accessible to everyone.
 
 ### [SkyCast.app 🌞 One Stop Weather App](https://skycast.app/)
 Your one stop weather application featuring a wide variety of current, historical and forecast weather data with map overlay and AQI. Built upon OpenWehaterMap API. Ad-Free.
