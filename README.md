@@ -30,6 +30,9 @@ Great for loading files to LLM for NLP processing.
 ### [Video Converter (HEVC/H.265 to Other)](https://react-video-converter.netlify.app/)
 A handy client-side video conversion tool that supports all common video formats including HEVC/H.265
 
+### [Ophthalmic Image Registration Application](https://github.com/linkmodo/image_registration_app)
+A professional Python application for longitudinal ophthalmic image registration and comparison, supporting DICOM and standard image formats with multiple popular alignment methods.
+
 ### [MAIA Conversion & Viewer Utility (Ophthalmology)](https://github.com/linkmodo/MAIA_Conversion_Viewer_Utility)
 A handy utility for viewing MAIA 2 and MAIA 3 analysis with tool for converting MAIA 3 DICOM file to MAIA 2 compatible format.
 
