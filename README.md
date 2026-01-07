@@ -5,6 +5,9 @@
 ### [Key Mapper and Disabling Tool](https://github.com/linkmodo/key_remapper)
 A robust, gaming-compatible key remapping tool for Windows 11 (also works on Windows 10).
 
+### [LCD LED OLED Screen Tester Pro](https://screentesterpro.netlify.app/)
+A comprehensive web-based monitor screen testing application. Test your display for dead pixels, uniformity, color accuracy, response time, and more.
+
 ### [GoBananas.io 🍌 (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
 *** Currently disabled due to unaffordable API cost... *** Where AI meets creativity! This tool transforms complex image editing into simple conversations, making professional-quality photo editing accessible to everyone.
 
