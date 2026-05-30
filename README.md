@@ -2,6 +2,9 @@
 
 ## Projects:
 
+### [DICOM Tags Viewer & Comparison Utility](https://dicomtags.com/)
+A comprehensive DICOM tags viewer and comparison utility for DICOM file structure analysis.
+
 ### [Key Mapper and Disabling Tool](https://github.com/linkmodo/key_remapper)
 A robust, gaming-compatible key remapping tool for Windows 11 (also works on Windows 10).
 
