@@ -11,16 +11,19 @@ A robust, gaming-compatible key remapping tool for Windows 11 (also works on Win
 ### [LCD LED OLED Screen Tester Pro](https://screentesterpro.netlify.app/)
 A comprehensive web-based monitor screen testing application. Test your display for dead pixels, uniformity, color accuracy, response time, and more.
 
-### [GoBananas.io 🍌 (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
+### [GoBananas.io - (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
 *** Currently disabled due to unaffordable API cost... *** Where AI meets creativity! This tool transforms complex image editing into simple conversations, making professional-quality photo editing accessible to everyone.
 
-### [SkyCast.app 🌞 One Stop Weather App](https://skycast.app/)
+### [SkyCast.app - One Stop Weather App](https://skycast.app/)
 Your one stop weather application featuring a wide variety of current, historical and forecast weather data with map overlay and AQI. Built upon OpenWehaterMap API. Ad-Free.
 
-### [Crazy Bananas 🍌 SLM (Small Language Model utilizing WebGPU)](https://crazybananas-slm.netlify.app/)
+### [Crazy Bananas SLM (Small Language Model utilizing WebGPU)](https://crazybananas-slm.netlify.app/)
 Run powerful AIs locally in your browser. Your choice of models. No local deployment. No data leaves your device.
 
-### [🏫 Classroom Utilization Analyzer and Schedule Optimizer](https://classroom-utilization.netlify.app/)
+### [NYC Crash Analysis](https://huggingface.co/spaces/linkmodo/NYC_Crash_Analytics)
+A comprehensive crash analytics dashboard of New York City based on publically available crash data. Appoximately 1.9 million data points, from 2013 to 2025.
+
+### [Classroom Utilization Analyzer and Schedule Optimizer](https://classroom-utilization.netlify.app/)
 I created this analyzer and schedule optimizer to help resolve a real-case complex classroom scheduling issue and to create recommendations for the college exective team for critical decision making.
 
 ### [Monte Carlo Analysis Platform For Decision Support](https://montecarloplatform.netlify.app/)
