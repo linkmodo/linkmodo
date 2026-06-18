@@ -1,70 +1,73 @@
-# Hello, I'm Li @linkmodo
+## 🚀 Projects
 
-## Projects:
+[**DICOM Tags Viewer & Comparison Utility**](https://dicomtags.com/)
+A comprehensive DICOM viewer and tag inspector for DICOM file structure analysis and comparison.
 
-### [DICOM Tags Viewer & Comparison Utility](https://dicomtags.com/)
-A comprehensive DICOM tags viewer and comparison utility for DICOM file structure analysis.
-
-### [Key Mapper and Disabling Tool](https://github.com/linkmodo/key_remapper)
+[**Key Mapper and Disabling Tool**](https://github.com/linkmodo/key_remapper)
 A robust, gaming-compatible key remapping tool for Windows 11 (also works on Windows 10).
 
-### [LCD LED OLED Screen Tester Pro](https://screentesterpro.netlify.app/)
-A comprehensive web-based monitor screen testing application. Test your display for dead pixels, uniformity, color accuracy, response time, and more.
+[**OLED Tools — Monitor Testing & Burn-In Prevention**](https://oledtools.com/)
+A comprehensive OLED/LCD/LED monitor testing and burn-in prevention tool. Test your display for dead pixels, uniformity, color accuracy, response time, and more.
 
-### [GoBananas.io - (The most advanced generative image editor, at your fingertips)](https://gobananas.io)
-*** Currently disabled due to unaffordable API cost... *** Where AI meets creativity! This tool transforms complex image editing into simple conversations, making professional-quality photo editing accessible to everyone.
+[**CalcuLight — iOS Light Meter**](https://apps.apple.com/us/app/calculight/id6758964459)
+A powerful iOS light meter app built for analog and film camera shooters.
 
-### [SkyCast.app - One Stop Weather App](https://skycast.app/)
-Your one stop weather application featuring a wide variety of current, historical and forecast weather data with map overlay and AQI. Built upon OpenWehaterMap API. Ad-Free.
+[**GoBananas.io**](https://gobananas.io/)
+Where AI meets creativity — advanced generative AI image editing and creation powered by Nano Bananas Pro. Message me for access.
 
-### [Crazy Bananas SLM (Small Language Model utilizing WebGPU)](https://crazybananas-slm.netlify.app/)
-Run powerful AIs locally in your browser. Your choice of models. No local deployment. No data leaves your device.
+[**SkyCast.app — One Stop Weather App**](https://skycast.app/)
+A one-stop weather application featuring live, historical, and forecast data visualization with map overlay and AQI. Built on the OpenWeatherMap API. Ad-free.
 
-### [NYC Crash Analysis](https://huggingface.co/spaces/linkmodo/NYC_Crash_Analytics)
-A comprehensive crash analytics dashboard of New York City based on publically available crash data. Appoximately 1.9 million data points, from 2013 to 2025.
+[**Crazy Bananas SLM**](https://crazybananas-slm.netlify.app/)
+A library of small language models that run entirely in your browser via WebGPU. No local deployment, no data leaves your device.
 
-### [Classroom Utilization Analyzer and Schedule Optimizer](https://classroom-utilization.netlify.app/)
-I created this analyzer and schedule optimizer to help resolve a real-case complex classroom scheduling issue and to create recommendations for the college exective team for critical decision making.
+[**HomeBuyingFAQ.com**](https://homebuyingfaq.com/)
+A Florida home buying guide and educational resource.
 
-### [Monte Carlo Analysis Platform For Decision Support](https://montecarloplatform.netlify.app/)
-End-to-end Monte Carlo simulation platform that transforms raw data (CSV/Excel) into actionable risk insights. It automates preprocessing, exploratory analysis, and distribution fitting to run 10k+ simulations, delivering interactive visualizations, risk assessments, and decision-ready recommendations with full export capabilities.
+[**NYC Crash Analysis**](https://huggingface.co/spaces/linkmodo/NYC_Crash_Analytics)
+A comprehensive crash analytics dashboard for New York City based on publicly available crash data — approximately 1.9 million data points from 2013 to 2025.
 
-### [AI Powered MBA-CLTV-RFM Analytics Portal](https://ai-mba-cltv-rfm-analysis.netlify.app/)
+[**Classroom Utilization Analyzer and Schedule Optimizer**](https://classroom-utilization.netlify.app/)
+Built to help resolve a real-world complex classroom scheduling issue and generate recommendations for a college executive team's critical decision making.
+
+[**Monte Carlo Analysis Platform For Decision Support**](https://montecarloplatform.netlify.app/)
+An end-to-end Monte Carlo simulation platform that transforms raw data (CSV/Excel) into actionable risk insights — automated preprocessing, exploratory analysis, distribution fitting, 10k+ simulations, interactive visualizations, and decision-ready recommendations with full export capabilities.
+
+[**AI Powered MBA-CLTV-RFM Analytics Portal**](https://ai-mba-cltv-rfm-analysis.netlify.app/)
 A comprehensive customer analytics dashboard featuring AI-powered insights for Customer Lifetime Value (CLTV) prediction, RFM (Recency, Frequency, Monetary) segmentation, Market Basket Analysis, and Exploratory Data Analysis.
 
-### [PDF2Text Tool (Converts PDF to Text, Flatten PDFs)](https://pdf-to-text.com/)
-A handy tool for converting .PDF (now also .docx) documents to text with ability to flattening PDFs.
-Great for loading files to LLM for NLP processing.
+[**PDF2Text Tool**](https://pdf-to-text.com/)
+A handy tool for converting PDF/Word/Excel documents to text with markup, plus the ability to flatten PDFs. Great for prepping files for LLM/NLP processing.
 
-### [Video Converter (HEVC/H.265 to Other)](https://react-video-converter.netlify.app/)
-A handy client-side video conversion tool that supports all common video formats including HEVC/H.265
+[**Video Converter (HEVC/H.265 to Other)**](https://react-video-converter.netlify.app/)
+An efficient client-side video conversion tool supporting all common video formats, including HEVC/H.265.
 
-### [Ophthalmic Image Registration Application](https://github.com/linkmodo/image_registration_app)
+[**Ophthalmic Image Registration Application**](https://github.com/linkmodo/image_registration_app)
 A professional Python application for longitudinal ophthalmic image registration and comparison, supporting DICOM and standard image formats with multiple popular alignment methods.
 
-### [MAIA Conversion & Viewer Utility (Ophthalmology)](https://github.com/linkmodo/MAIA_Conversion_Viewer_Utility)
-A handy utility for viewing MAIA 2 and MAIA 3 analysis with tool for converting MAIA 3 DICOM file to MAIA 2 compatible format.
+[**MAIA Conversion & Viewer Utility (Ophthalmology)**](https://github.com/linkmodo/MAIA_Conversion_Viewer_Utility)
+A handy utility for viewing MAIA 2 and MAIA 3 analyses, with a tool for converting MAIA 3 DICOM files to MAIA 2 compatible format.
 
-### [OCT Extraction Tool](https://github.com/linkmodo/oct-extractor)
-GitHub repository for a OCT data extraction application
+[**OCT Extraction Tool**](https://github.com/linkmodo/oct-extractor)
+GitHub repository for an OCT data extraction application.
 
-### [Webcam Face Controller](https://github.com/linkmodo/face_controller)
-A Python application that allows you to control your computer using face movements detected through your webcam. A windows .exe app is also available for download and use directly.
+[**Webcam Face Controller**](https://github.com/linkmodo/face_controller)
+A Python application that lets you control your computer using face movements detected through your webcam. A Windows .exe app is also available for direct download and use.
 
-### [Deep Learning Based Face Detection and Privacy Filter](https://facedetectionappbyli.streamlit.app/)
-Demo of AI-powered face detection with privacy filtering capabilities
+[**Deep Learning Based Face Detection and Privacy Filter**](https://facedetectionappbyli.streamlit.app/)
+Demo of AI-powered face detection with privacy filtering capabilities.
 
-### [Image Filters](https://imagefiltersbyli.streamlit.app/)
-Web application for applying various image filters
+[**Image Filters**](https://imagefiltersbyli.streamlit.app/)
+Web application for applying various image filters.
 
-### [Consumer Debt Complaint Analyzer](https://consumercomplaintsanalyzerbyli.streamlit.app/)
-Tool for analyzing consumer debt complaints in a embedding database
+[**Consumer Debt Complaint Analyzer**](https://consumercomplaintsanalyzerbyli.streamlit.app/)
+Tool for analyzing consumer debt complaints using an embedding database.
 
-### [Semantic Text Embedding Generation and Search Tool](https://semanticpdfsearchbyli.streamlit.app/)
-PDF search tool using semantic text embeddings
+[**Semantic Text Embedding Generation and Search Tool**](https://semanticpdfsearchbyli.streamlit.app/)
+PDF search tool using semantic text embeddings.
 
-### [Social Media Sentiment Analyzer (TF-IDF Demo)](https://tf-idf-sentiment-analysis-demo.streamlit.app/)
-Sentiment analysis demonstration using TF-IDF methodology
+[**Social Media Sentiment Analyzer (TF-IDF Demo)**](https://tf-idf-sentiment-analysis-demo.streamlit.app/)
+Sentiment analysis demonstration using TF-IDF methodology.
 
-### [My very first web app deployment (Multiclass Sentiment Classification Prediction Model)](https://lifirstapp1.streamlit.app/)
-My first web application. A simple multiclass sentiment classification model
+[**My First Web App Deployment (Multiclass Sentiment Classification Prediction Model)**](https://lifirstapp1.streamlit.app/)
+My first web application — a simple multiclass sentiment classification model.
