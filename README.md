@@ -45,6 +45,9 @@ An efficient client-side video conversion tool supporting all common video forma
 [**Ophthalmic Image Registration Application**](https://github.com/linkmodo/image_registration_app)
 A professional Python application for longitudinal ophthalmic image registration and comparison, supporting DICOM and standard image formats with multiple popular alignment methods.
 
+[**Double Circle Drawing Tool**](https://double-circle-tool.netlify.app/)
+A lightweight, browser-based annotation tool for drawing concentric double circles on images. Designed for research use where precise ring-width measurements (in micrometers) are needed.
+
 [**MAIA Conversion & Viewer Utility (Ophthalmology)**](https://github.com/linkmodo/MAIA_Conversion_Viewer_Utility)
 A handy utility for viewing MAIA 2 and MAIA 3 analyses, with a tool for converting MAIA 3 DICOM files to MAIA 2 compatible format.
 
