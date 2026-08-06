@@ -6,8 +6,8 @@ A powerful iOS light meter app built for analog and film camera shooters. Availa
 [**DICOM Tags Viewer & Comparison Utility**](https://dicomtags.com/)
 A comprehensive DICOM viewer and tag inspector for DICOM file structure analysis and comparison.
 
-[**Key Mapper and Disabling Tool**](https://github.com/linkmodo/key_remapper)
-A robust, gaming-compatible key remapping tool for Windows 11 (also works on Windows 10).
+[**Key Remapper and Copilot Key Disabling Tool**](https://github.com/linkmodo/key_remapper)
+A robust, gaming-compatible key remapping tool for Windows 11 (also works on Windows 10). Newest version allows full customization of the "Copilot" key on your keyboard.
 
 [**OLED Tools — Monitor Testing & Burn-In Prevention**](https://oledtools.com/)
 A comprehensive OLED/LCD/LED monitor testing and burn-in prevention tool. Test your display for dead pixels, uniformity, color accuracy, response time, and more.
