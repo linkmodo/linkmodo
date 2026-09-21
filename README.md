@@ -12,8 +12,8 @@ A robust, gaming-compatible key remapping tool for Windows 11 (also works on Win
 [**OLED Tools — Monitor Testing & Burn-In Prevention**](https://oledtools.com/)
 A comprehensive OLED/LCD/LED monitor testing and burn-in prevention tool. Test your display for dead pixels, uniformity, color accuracy, response time, and more.
 
-[**GoBananas.io**](https://gobananas.io/)
-Where AI meets creativity — advanced generative AI image editing and creation powered by Nano Bananas Pro. Message me for access.
+[**GoBananas**](https://gobananas-ai.netlify.app/)
+Generative AI image editor powered by Nano Bananas Pro.
 
 [**SkyCast.app — One Stop Weather App**](https://skycast.app/)
 A one-stop weather application featuring live, historical, and forecast data visualization with map overlay and AQI. Built on the OpenWeatherMap API. Ad-free.
