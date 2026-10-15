@@ -1,4 +1,6 @@
 ## 🚀 Projects
+[**Cover Shotz - Think fast, aim sharp, and fight your way to victory!**](https://covershotz.com)
+A first-person shooter game featuring multiple game modes and multiplayer capabilities. Supports both desktop and touchscreen gameplay, with highly customizable controls and AI bots of varying difficulty levels to keep you entertained for hours.
 
 [**CalcuLight — iOS Light Meter**](https://apps.apple.com/us/app/calculight/id6758964459)
 A powerful iOS light meter app built for analog and film camera shooters. Available in App Store
