@@ -1,6 +1,6 @@
 ## 🚀 Projects
 [**PDF-To-Text.com**](https://pdf-to-text.com/)
-PDF-To-Text.com is a free, private set of browser-based tools that converts PDF, Word and Excel files to text and Markdown, turns images into SVG vectors, removes backgrounds, prepares photos for laser engraving, and also offers a text editor and typing test, all without uploading your files.
+FREE, private set of browser-based tools that converts PDF, Word and Excel files to text and Markdown, turns images into SVG vectors, removes backgrounds, prepares photos for laser engraving, and also offers a text editor and typing test, all without uploading your files.
 
 [**Cover Shotz - Think fast, aim sharp, and fight your way to victory!**](https://covershotz.com)
 A first-person shooter game featuring multiple game modes and multiplayer capabilities. Supports both desktop and touchscreen gameplay, with highly customizable controls and AI bots of varying difficulty levels to keep you entertained for hours.
