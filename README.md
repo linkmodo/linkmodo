@@ -1,4 +1,7 @@
 ## 🚀 Projects
+[**PDF-To-Text.com**](https://pdf-to-text.com/)
+PDF-To-Text.com is a free, private set of browser-based tools that converts PDF, Word and Excel files to text and Markdown, turns images into SVG vectors, removes backgrounds, prepares photos for laser engraving, and also offers a text editor and typing test, all without uploading your files.
+
 [**Cover Shotz - Think fast, aim sharp, and fight your way to victory!**](https://covershotz.com)
 A first-person shooter game featuring multiple game modes and multiplayer capabilities. Supports both desktop and touchscreen gameplay, with highly customizable controls and AI bots of varying difficulty levels to keep you entertained for hours.
 
@@ -37,9 +40,6 @@ An end-to-end Monte Carlo simulation platform that transforms raw data (CSV/Exce
 
 [**AI Powered MBA-CLTV-RFM Analytics Portal**](https://ai-mba-cltv-rfm-analysis.netlify.app/)
 A comprehensive customer analytics dashboard featuring AI-powered insights for Customer Lifetime Value (CLTV) prediction, RFM (Recency, Frequency, Monetary) segmentation, Market Basket Analysis, and Exploratory Data Analysis.
-
-[**PDF2Text Tool**](https://pdf-to-text.com/)
-A handy tool for converting PDF/Word/Excel documents to text with markup, plus the ability to flatten PDFs. Great for prepping files for LLM/NLP processing.
 
 [**Video Converter (HEVC/H.265 to Other)**](https://react-video-converter.netlify.app/)
 An efficient client-side video conversion tool supporting all common video formats, including HEVC/H.265.
